@@ -9,12 +9,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="twbank-fx-client",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Diman",
+    author_email="diman33@gmail.com",
     description="台灣銀行外匯匯率查詢 API 客戶端",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/twbank-fx-api-client",
+    url="https://github.com/dimanyen/twbank-fx-api-client",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
