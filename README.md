@@ -5,6 +5,8 @@
 
 台灣銀行外匯匯率查詢 API 客戶端 - 一個簡單易用的 Python 套件，用於查詢台灣銀行的即時匯率和歷史匯率資料。
 
+中文說明 | [English](./README.en.md)
+
 ## 特色功能
 
 - **即時匯率查詢**：查詢台灣銀行提供的各種外幣即時匯率
@@ -20,13 +22,13 @@
 ### 使用 pip 安裝（從 GitHub）
 
 ```bash
-pip install git+https://github.com/yourusername/twbank-fx-api-client.git
+pip install git+https://github.com/dimanyen/twbank-fx-api-client.git
 ```
 
 ### 從原始碼安裝
 
 ```bash
-git clone https://github.com/yourusername/twbank-fx-api-client.git
+git clone https://github.com/dimanyen/twbank-fx-api-client.git
 cd twbank-fx-api-client
 pip install -e .
 ```
